@@ -1,0 +1,6 @@
+.children > *{
+    color:red;
+}
+.children > * > *{
+    color:black;
+}
